@@ -1,1 +1,1 @@
-TODO: Create a file called LICENSE (not LICENSE.TXT, LICENSE.md, etc.)…
+This repo contains Xamarin's roadmap items for .NET 6. To see Xamarin's source code, visit https://github.com/xamarin/.
