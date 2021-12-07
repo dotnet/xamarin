@@ -1,2 +1,2 @@
-This repo contains Xamarin's roadmap items for .NET 6. To see Xamarin's source code, visit https://github.com/xamarin/.
+This repo contains Xamarin and .NET MAUI's roadmap items for the .NET 6 and 7 timeframes. To see Xamarin's source code, visit https://github.com/xamarin/.
 
